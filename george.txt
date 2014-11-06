@@ -1,6 +1,16 @@
 chsdughsdk
 
+<<<<<<< HEAD
 r
 t
 y
 u
+=======
+
+foudghflgj
+h
+
+sjglsfjg
+
+
+>>>>>>> parent of 670b594... Revert "mparmpotsala"
