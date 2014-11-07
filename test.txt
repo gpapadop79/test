@@ -5,10 +5,7 @@ public static void main
 a
 b
 c
-<<<<<<< HEAD
 
 
 bbb
 
-=======
->>>>>>> parent of 5a39943... bbb
